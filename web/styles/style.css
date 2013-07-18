@@ -1,0 +1,45 @@
+/* 
+    Document   : style
+    Created on : 16 avr. 2013, 11:01:41
+    Author     : cboucly
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body{
+    background-color:#f5f5f5;
+    font-family: arial;
+    font-size:12px;
+}
+
+.container{
+    width:800px;
+    margin:0 auto;
+}
+ul li{
+    list-style:none;
+}
+textarea {
+    width:530px;
+}
+
+a, a:hover {
+    color:#000;
+    text-decoration:none;
+}
+a:hover{
+    color: red;
+}
+.separate{
+
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin-bottom: 10px;
+    border: 0;
+    border-bottom: 1px solid #e1e1e1;
+    box-shadow: 1px 1px 1px rgba(255,255,255,1);
+    
+
+}
+
